@@ -2,7 +2,7 @@ html, body {
     margin: 0;
     padding: 0;
     font-family: 'Rubik', sans-serif;
-    background-color: #EEF0F4;
+    background-color: #c0cce4;
     color: #432000;
     user-select: none;
 }
@@ -17,6 +17,8 @@ html, body {
 img {
     width: 150px;
     margin: 0 auto;
+    border-radius: 75px;
+    background: #a9b8b8;
 }
 
 input {
