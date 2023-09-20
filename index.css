@@ -56,7 +56,11 @@ ul {
     flex-wrap: wrap;
     gap: 10px;
 }
-
+.task-done{
+    color: rgb(69, 67, 67);
+    background-color: #a6a3a3;
+    text-decoration: rgb(65, 63, 63) line-through;
+}
 ul li {
     font-size: 20px;
     background-color: #FFFDF8;
